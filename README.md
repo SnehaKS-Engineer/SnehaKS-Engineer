@@ -1,16 +1,36 @@
-## Hi there 👋
+ Hi 👋, I'm Sneha K.S
 
-<!--
-**SnehaKS-Engineer/SnehaKS-Engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Electronics and Communication Engineering (EC) Student.
 
-Here are some ideas to get you started:
+🐍 Currently learning Python and programming fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Exploring technology and improving my coding skills step by step.
+
+📚 I believe in learning, practicing, and building something new every day.
+
+## 🐍 Python Learning
+
+Currently learning:
+- Variables
+- Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Lists
+- Tuples
+
+## 🔧 My Interests
+
+- Electronics & Communication
+- Programming
+- Python
+- Technology
+
+## 🚀 My Goal
+
+To build strong technical skills and create useful
+projects as I continue my engineering journey.
+
+## 📌 Currently Learning
+
+Python Basics | Git & GitHub
