@@ -8,17 +8,6 @@
 
 📚 I believe in learning, practicing, and building something new every day.
 
-## 🐍 Python Learning
-
-Currently learning:
-- Variables
-- Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Lists
-- Tuples
-
 ## 🔧 My Interests
 
 - Embedded Systems
