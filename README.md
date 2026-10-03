@@ -21,10 +21,12 @@ Currently learning:
 
 ## 🔧 My Interests
 
-- Electronics & Communication
+- Embedded Systems
+- IoT (Internet of Things)
+- VLSI
+- Software Development
 - Programming
-- Python
-- Technology
+- Electronics & Communication
 
 ## 🚀 My Goal
 
